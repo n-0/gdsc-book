@@ -1,5 +1,5 @@
 {
-  "name": "gbook",
+  "name": "gdsc-book",
   "version": "1.0.0",
   "description": "gitbook for docs of tuh gdsc",
   "main": "index.js",
